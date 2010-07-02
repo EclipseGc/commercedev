@@ -12,6 +12,8 @@ projects[commerce][download][type] = "git"
 ; the download source. To retrieve a different version, you can alter the URL,
 ; even using a private GitHub URL as demonstrated in the line beneath it.
 
-projects[commerce][download][url] = "git://github.com/drupalcommerce/drupalcommerce.git"
+;projects[commerce][download][url] = "git://github.com/drupalcommerce/drupalcommerce.git"
+;projects[commerce][download][url] = "git://github.com/rszrama/drupalcommerce.git"
+projects[commerce][download][url] = "git@github.com:EclipseGc/drupalcommerce.git"
 
 ; projects[commerce][download][url] = "git@github.com:example/drupalcommerce.git"
